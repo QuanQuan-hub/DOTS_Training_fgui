@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packageDescription id="ca5kr7uz">
   <resources>
-    <component id="sgf10" name="Component1.xml" path="/" exported="true"/>
+    <component id="sgf10" name="EnterPanle.xml" path="/" exported="true"/>
   </resources>
+  <publish name="" genCode="true"/>
 </packageDescription>

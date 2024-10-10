@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="cuuedps8">
+  <resources>
+    <image id="vccx1" name="btn_picbg01.png" path="/src/"/>
+    <image id="vccx2" name="startcheng.png" path="/src/"/>
+    <image id="vccx3" name="startbule.png" path="/src/"/>
+    <component id="q8kt4" name="blue_btn.xml" path="/" exported="true"/>
+    <component id="q8kt5" name="red_btn.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="" genCode="true"/>
+</packageDescription>
