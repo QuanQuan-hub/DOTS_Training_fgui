@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <controller name="isLoadDone" pages="0,,1," selected="1">
+    <remark page="0" value="加载中"/>
+    <remark page="1" value="点击任意地方继续"/>
+  </controller>
+  <displayList>
+    <component id="n0_q8kt" name="loadPro" src="q8ktb" fileName="yellow_pro.xml" pkg="cuuedps8" xy="1578,980">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n2_q8kt" name="pressBtn" src="q8ktc" fileName="InvisibleBtn.xml" pkg="cuuedps8" xy="0,0" size="1920,1080">
+      <relation target="" sidePair="width-width,height-height"/>
+    </component>
+    <text id="n3_q8kt" name="loadTxt" xy="1582,919" size="293,53" fontSize="39" color="#ffffff" autoSize="none" text="点击任意继续">
+      <gearText controller="isLoadDone" pages="1" values="点击任意继续" default="加载中。。。"/>
+    </text>
+  </displayList>
+</component>

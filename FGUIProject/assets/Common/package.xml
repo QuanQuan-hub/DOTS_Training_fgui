@@ -12,6 +12,7 @@
     <image id="q8kt9" name="pic_progressbg.png" path="/src/"/>
     <image id="q8kta" name="pic_progressbg2.png" path="/src/"/>
     <component id="q8ktb" name="yellow_pro.xml" path="/" exported="true"/>
+    <component id="q8ktc" name="InvisibleBtn.xml" path="/" exported="true"/>
   </resources>
   <publish name="" genCode="true"/>
 </packageDescription>
