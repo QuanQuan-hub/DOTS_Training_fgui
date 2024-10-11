@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="cyc8zalc">
+  <resources>
+    <component id="q8kt0" name="GameMainPanel.xml" path="/" exported="true"/>
+    <image id="q8kt1" name="pic_playerchoose_bg.png" path="/src/"/>
+    <component id="q8kt2" name="energy_pro.xml" path="/"/>
+    <image id="q8kt3" name="coffee-cup.png" path="/src/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

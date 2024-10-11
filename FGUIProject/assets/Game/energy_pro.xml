@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="376,48">
+  <displayList>
+    <component id="n5_q8kt" name="energy_pro" src="q8ktb" fileName="yellow_pro.xml" pkg="cuuedps8" xy="68,0">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <loader id="n8_q8kt" name="icon" xy="9,-2" size="50,50" url="ui://cyc8zalcq8kt3" fill="scale"/>
+  </displayList>
+</component>
