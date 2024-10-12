@@ -5,6 +5,8 @@
     <image id="q8kt1" name="pic_playerchoose_bg.png" path="/src/"/>
     <component id="q8kt2" name="energy_pro.xml" path="/commponet/"/>
     <image id="q8kt3" name="coffee-cup.png" path="/src/"/>
+    <image id="q8kt6" name="pic_log_icon.png" path="/src/"/>
+    <image id="q8kt7" name="pic_settings_icon.png" path="/src/"/>
   </resources>
   <publish name="" genCode="true"/>
 </packageDescription>

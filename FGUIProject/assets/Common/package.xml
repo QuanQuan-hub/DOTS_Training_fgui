@@ -6,8 +6,6 @@
     <image id="vccx3" name="startbule.png" path="/src/"/>
     <component id="q8kt4" name="blue_btn.xml" path="/" exported="true"/>
     <component id="q8kt5" name="red_btn.xml" path="/" exported="true"/>
-    <image id="q8kt6" name="pic_log_icon.png" path="/src/"/>
-    <image id="q8kt7" name="pic_settings_icon.png" path="/src/"/>
     <component id="q8kt8" name="custom_btn.xml" path="/" exported="true"/>
     <image id="q8kt9" name="pic_progressbg.png" path="/src/"/>
     <image id="q8kta" name="pic_progressbg2.png" path="/src/"/>

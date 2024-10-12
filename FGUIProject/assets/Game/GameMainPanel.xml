@@ -2,7 +2,7 @@
 <component size="1920,1080">
   <displayList>
     <component id="n1_q8kt" name="buildBtn" src="q8kt8" fileName="custom_btn.xml" pkg="cuuedps8" xy="1783,917" group="n2_q8kt">
-      <Button title="建造" icon="ui://cuuedps8q8kt7"/>
+      <Button title="建造" icon="ui://cyc8zalcq8kt7"/>
     </component>
     <group id="n2_q8kt" name="right_up" xy="1783,917" size="100,100"/>
     <component id="n5_q8kt" name="energy_pro" src="q8kt2" fileName="energy_pro.xml" xy="1508,34" group="n6_q8kt"/>

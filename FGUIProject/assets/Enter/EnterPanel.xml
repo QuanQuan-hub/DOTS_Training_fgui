@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1920,1080">
   <displayList>
-    <graph id="n0_vccx" name="bg" xy="0,0" size="1920,1080" type="rect" fillColor="#33ffffff"/>
+    <graph id="n0_vccx" name="bg" xy="0,0" size="1920,1080" type="rect" fillColor="#33ffffff">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
     <component id="n1_q8kt" name="startBtn" src="q8kt5" fileName="red_btn.xml" pkg="cuuedps8" xy="849,739">
+      <relation target="" sidePair="center-center,middle-middle"/>
       <Button title="开始游戏"/>
     </component>
   </displayList>
